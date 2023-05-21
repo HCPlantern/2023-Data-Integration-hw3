@@ -35,7 +35,7 @@
     └── star_result.csv
 ```
 
-该项目仅包含了相关代码和结果文件，具体使用的CSV文件和数据由于体积过大，存放在了 NJUBOX 中：[2023-Data-Integration-hw3-zip](https://box.nju.edu.cn/f/bbb76061527b432184d3/)
+该项目仅包含了相关代码和结果文件，具体使用的CSV文件和数据由于体积过大，存放在了 NJUBOX 中：[2023-Data-Integration-hw3-zip](https://box.nju.edu.cn/f/62001ba13a5a4758b7bc/)
 
 该项目所用到的数据来源于 hw2 中的 Clickhouse 数据库。我们选择出合适的字段后通过 SQL 语句导出成 CSV 文件再交给 Python 进行数据处理和模型训练。
 
