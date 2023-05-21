@@ -394,7 +394,7 @@ from pri_star_info as star_info
 
 数据盘点如下：
 
-![](https://hackmd.io/_uploads/B1xdxVPS3.png)
+![](https://cdn.hcplantern.cn/img/2023/05/21/20230521-135551.png)
 
 
 
@@ -456,7 +456,7 @@ weighted avg       0.92      0.92      0.92     46430
 
 混淆矩阵如下：
 
-![](https://hackmd.io/_uploads/HyxHcfvHn.png)
+![](https://cdn.hcplantern.cn/img/2023/05/21/20230521-135809.png)
 
 ### 4.4 模型预测
 
@@ -587,8 +587,7 @@ from dm.pri_credit_info as credit_info
 
 数据盘点如下：
 
-![](https://hackmd.io/_uploads/HJPJZ4PH2.png)
-
+![](https://cdn.hcplantern.cn/img/2023/05/21/20230521-135845.png)
 
 
 ### 5.2 数据处理与模型训练
@@ -667,7 +666,7 @@ weighted avg       0.61      0.65      0.62     12203
 
 混淆矩阵如下：
 
-![](https://hackmd.io/_uploads/Bym6ofvB2.png)
+![](https://cdn.hcplantern.cn/img/2023/05/21/20230521-135917.png)
 
 ### 5.4 模型应用
 
